@@ -1,4 +1,4 @@
-# .me
+Credits : Brittany Chiang
 
 
 ## 🛠 Installation & Set Up
